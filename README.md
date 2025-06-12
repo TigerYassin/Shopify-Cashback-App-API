@@ -1,4 +1,4 @@
-# Shopify Cashback APP API 
+# Shopify Cashback APP API for 2025
 
 
 Shopify Cashback app API allows you to issue and manage cashback activities within the Shopify App for free. Start for Free.  
